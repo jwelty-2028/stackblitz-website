@@ -1,12 +1,13 @@
 body {
   margin: 0;
   font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-  color: #2e86ab;
   background-color: #d6f9dd;
+  color: #565554;
+  font-weight: 600;
 }
 nav {
   background-color: #565554;
-  text-align: center;
+  text-align: right;
   padding: 20px;
   font-weight: 700;
   margin-bottom: 0%;
@@ -14,14 +15,26 @@ nav {
 
 nav a {
   padding: 10px;
-  color: #efbdeb;
+  color: #e94f37;
   text-decoration-line: none;
 }
 
 header {
+  color: #2e86ab;
   text-align: center;
   background-color: #565554;
   margin-top: 0%;
+  padding-bottom: 10px;
+}
+
+header span {
+  padding: 0px;
+  margin: 0px;
+}
+
+main {
+  text-align: center;
+  padding: 20px;
 }
 
 /* https://coolors.co/d6f9dd-565554-2e86ab-e94f37-efbdeb */
