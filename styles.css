@@ -1,0 +1,16 @@
+body {
+  margin: 0;
+}
+nav {
+ background-color: blue;
+ text-align: center;
+ padding: 20px;
+ font-family: sans-serif;
+ font-weight: 700;
+}
+
+nav a {
+  padding: 10px;
+  color: #FFA500;
+  
+}
