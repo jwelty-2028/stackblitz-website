@@ -1,16 +1,27 @@
 body {
   margin: 0;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  color: #2e86ab;
+  background-color: #d6f9dd;
 }
 nav {
- background-color: blue;
- text-align: center;
- padding: 20px;
- font-family: sans-serif;
- font-weight: 700;
+  background-color: #565554;
+  text-align: center;
+  padding: 20px;
+  font-weight: 700;
+  margin-bottom: 0%;
 }
 
 nav a {
   padding: 10px;
-  color: #FFA500;
-  
+  color: #efbdeb;
+  text-decoration-line: none;
 }
+
+header {
+  text-align: center;
+  background-color: #565554;
+  margin-top: 0%;
+}
+
+/* https://coolors.co/d6f9dd-565554-2e86ab-e94f37-efbdeb */
